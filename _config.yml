@@ -1,13 +1,13 @@
-title: "FAIRCHILD.WS"
-author: "Bill"
+title: "It's just a bunch of stuff that happened"
+author: "Will"
 description: "Just thoughts, links, etc.." # This will show up in places like twitter, linkedin, etc, if you share your sites url as a post.
 
 # Email / Social media user names used by the minima theme:
 # All of these are optional and can be removed or commented out
-email: "example@mail.com"
+email: "w@illfairchild.com"
 mastodon_username: "illfairchild"
-github_username: "wpf99"
-linkedin_username: "wfairchild"
+#github_username: "wpf99"
+#linkedin_username: "wfairchild"
 #facebook_username: username
 #flickr_username: username
 instagram_username: "illfairchild"
